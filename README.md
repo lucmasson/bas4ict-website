@@ -1,18 +1,18 @@
 # BAS4ICT Website
 
-Welcome to the official repository of **BAS4ICT**, a strategic ICT consultancy based in Brussels. This repository contains the source code and assets for our website: [https://www.bas4ict.com](https://www.bas4ict.com).
+Welcome to the official repository of **BAS4ICT**, an executive advisory consultancy based in Brussels. This repository contains the source code and assets for our corporate website: [https://www.bas4ict.com](https://www.bas4ict.com).
 
 ## About BAS4ICT
 
-We specialize in:
+**BAS4ICT** advises CEOs and executive teams on maintaining control over complex, regulated, ICT-enabled transformations.
 
-- Digital transformation strategies
-- ICT architecture and governance
-- EU regulatory alignment (GDPR, NIS2, DORA, CRA)
-- Sustainable IT practices
-- Public and private sector consulting
+- Executive governance and decision clarity
+- ICT and digital operating model alignment
+- EU regulatory assurance (GDPR, NIS2, DORA, CRA)
+- Critical infrastructure, data, cloud, and AI oversight
+- Sustainable and responsible technology execution
 
-Our mission is to empower organizations with tailored digital solutions that are innovative, compliant, and future-proof.
+Our mission is to strengthen executive confidence, accountability, and long-term value creation in mission-critical environments.
 
 ## Structure
 
@@ -24,9 +24,13 @@ The website is built using:
 
 ## Usage
 
-This repository is for development, maintenance, and documentation purposes. It is not intended for public contributions.
+This repository supports:
+
+- Internal development
+- Ongoing maintenance
+- Technical documentation
 
 ## License
 
-© BAS4ICT SRL. All rights reserved.
+© **BAS4ICT** SRL. All rights reserved.
 
